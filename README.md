@@ -20,3 +20,5 @@ An automated, end-to-end data engineering pipeline that transforms raw bank expo
 1. Drop raw bank CSVs into `data/raw/`.
 2. Run `run_pipeline.bat` to execute the full ETL cycle.
 3. Refresh the Power BI dashboard to visualize updated trends.
+
+![Dashboard](dashboard.png)
